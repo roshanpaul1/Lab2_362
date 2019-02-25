@@ -2,21 +2,21 @@ body {
   background-color: powderblue;
 }
 h1 {
-  color: red;
+  color: black;
 }
 div {
-  color: red;
+  color: black;
 }
 
 form{
-	color: red;
+	color: black;
 }
 
 fieldset{
-	color: red;
+	color: black;
 }
 
 legend{
-	color: red;
+	color: black;
 }
 
