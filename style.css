@@ -10,11 +10,13 @@ h1 {
 div {
   color: black;
   font-size: 100%;
+  padding: 30px;
 }
 
 form{
 	color: black;
 	background-color: green;
+	padding: 250px;
 }
 
 fieldset{
@@ -24,5 +26,7 @@ fieldset{
 legend{
 	color: black;
 	font-size: 200%;
+	
+	padding: 30px;
 }
 
